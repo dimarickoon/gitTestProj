@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.0-beta2",
+    "node-telegram-bot-api": "^0.30.0",
+    "pg": "^7.11.0",
+    "postgresql": "0.0.1"
+  }
 }
